@@ -1,1 +1,1 @@
-Mondrith
+[Mondrith](https://modrinth.com/app)
